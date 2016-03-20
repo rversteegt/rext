@@ -1,0 +1,29 @@
+{
+  "name": "rext",
+  "version": "0.1.0",
+  "description": "General additions to Ramda/Lodash that did not have a home in other, more specific libraries or projects.",
+  "keywords": [
+  ],  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rversteegt/rext.git"
+  },
+  "author": "Robert Versteegt - https://github.com/rversteegt",
+  "contributors": [],
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "ramda": "^0.19.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.6.0",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.12.7",
+    "load-grunt-tasks": "^3.4.1",
+    "mocha": "^2.4.5"
+  }
+}
